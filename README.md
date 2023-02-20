@@ -8,7 +8,7 @@ My Electron App is a desktop application that loads the Lichess website in a cus
 
 To install and run this app, you will need to have Node.js and Electron installed on your computer. Once you have them installed, you can follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/yourusername/my-electron-app.git`
+1. Clone this repository to your local machine using `git clone https://github.com/RyuutenLoveCode/Lichess-Desktop`
 2. Navigate to the project directory using `cd my-electron-app`
 3. Install the required packages using `npm install`
 4. Start the app using `npm start`
